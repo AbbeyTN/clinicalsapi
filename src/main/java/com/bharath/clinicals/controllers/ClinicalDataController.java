@@ -25,9 +25,11 @@ import com.bharath.clinicals.repos.PatientRepository;
 public class ClinicalDataController {
 	int a= 0;
 	int b=1;
+
 	int c= 7;
 	int d =3;
 	int e =10;
+
 	
 	@Autowired
 	private ClinicalDataRepository clinicalDataRepository;
