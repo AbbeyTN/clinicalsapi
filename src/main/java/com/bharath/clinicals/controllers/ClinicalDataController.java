@@ -27,7 +27,7 @@ public class ClinicalDataController {
 	int b=1;
 	int c= 2;
 	int d =3;
-	
+	int e =4;
 	
 	@Autowired
 	private ClinicalDataRepository clinicalDataRepository;
