@@ -23,6 +23,7 @@ import com.bharath.clinicals.repos.PatientRepository;
 @RestController
 @RequestMapping("/api")
 public class ClinicalDataController {
+	int a= 0;
 	
 	@Autowired
 	private ClinicalDataRepository clinicalDataRepository;
